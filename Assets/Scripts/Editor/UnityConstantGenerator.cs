@@ -7,6 +7,7 @@ using UnityEngine;
 namespace UnityToolbag
 {
     //Source:https://github.com/nickgravelyn/UnityToolbag/blob/master/UnityConstants/Editor/UnityConstantsGenerator.cs
+    //Modified by goost
     public static class UnityConstantsGenerator
     {
         [MenuItem("Edit/Generate UnityConstants.cs")]
@@ -42,11 +43,11 @@ namespace UnityToolbag
             {
                 writer.WriteLine("// This file is auto-generated. Modifications are not saved.");
                 writer.WriteLine();
-                writer.WriteLine("namespace UnityConstants");
+                writer.WriteLine("namespace Goost.LD34Peragus");
                 writer.WriteLine("{");
 
                 // Write out the tags
-                writer.WriteLine("    public static class Tags");
+                writer.WriteLine("    public static class Tag");
                 writer.WriteLine("    {");
                 foreach (var tag in UnityEditorInternal.InternalEditorUtility.tags)
                 {
@@ -59,7 +60,7 @@ namespace UnityToolbag
                 writer.WriteLine();
 
                 // Write out sorting layers
-                writer.WriteLine("    public static class SortingLayers");
+                writer.WriteLine("    public static class SortingLayer");
                 writer.WriteLine("    {");
                 foreach (var layer in SortingLayer.layers)
                 {
@@ -72,7 +73,7 @@ namespace UnityToolbag
                 writer.WriteLine();
 
                 // Write out layers
-                writer.WriteLine("    public static class Layers");
+                writer.WriteLine("    public static class Layer");
                 writer.WriteLine("    {");
                 for (int i = 0; i < 32; i++)
                 {
@@ -101,7 +102,7 @@ namespace UnityToolbag
                 writer.WriteLine();
 
                 // Write out scenes
-                writer.WriteLine("    public static class Scenes");
+                writer.WriteLine("    public static class Scene");
                 writer.WriteLine("    {");
                 for (int i = 0; i < EditorBuildSettings.scenes.Length; i++)
                 {

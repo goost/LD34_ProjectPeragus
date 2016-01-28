@@ -3,7 +3,11 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - RunStatus
+  - Obstacle
+  - FireballTarget
+  - Counter
   layers:
   - Default
   - TransparentFX
@@ -13,8 +17,8 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
+  - Ground
+  - Counter
   - 
   - 
   - 
@@ -40,4 +44,13 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 4025008481
+    locked: 0
+  - name: Player
+    uniqueID: 2340705723
+    locked: 0
+  - name: Blood
+    uniqueID: 3003780315
     locked: 0

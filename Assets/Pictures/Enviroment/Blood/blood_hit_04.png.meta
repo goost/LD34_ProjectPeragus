@@ -1,0 +1,700 @@
+fileFormatVersion: 2
+guid: 31f207835636e8547825bdaa6045d468
+timeCreated: 1450032527
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: blood_hit_04_0
+    21300002: blood_hit_04_1
+    21300004: blood_hit_04_2
+    21300006: blood_hit_04_3
+    21300008: blood_hit_04_4
+    21300010: blood_hit_04_5
+    21300012: blood_hit_04_6
+    21300014: blood_hit_04_7
+    21300016: blood_hit_04_8
+    21300018: blood_hit_04_9
+    21300020: blood_hit_04_10
+    21300022: blood_hit_04_11
+    21300024: blood_hit_04_12
+    21300026: blood_hit_04_13
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 128
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: blood_hit_04_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 55}
+        - {x: -20, y: 6}
+        - {x: 6, y: 6}
+        - {x: 16, y: 15}
+        - {x: 16, y: 55}
+    - name: blood_hit_04_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 56}
+        - {x: -26, y: 55}
+        - {x: -26, y: 2}
+        - {x: -18, y: -2}
+        - {x: 10, y: -2}
+        - {x: 22, y: 9}
+        - {x: 22, y: 51}
+        - {x: 19, y: 56}
+    - name: blood_hit_04_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 57}
+        - {x: -30, y: 49}
+        - {x: -30, y: 12}
+        - {x: -10, y: -7}
+        - {x: 10, y: -7}
+        - {x: 22, y: -4}
+        - {x: 26, y: 12}
+        - {x: 26, y: 53}
+        - {x: 21, y: 57}
+    - name: blood_hit_04_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 57}
+        - {x: -34, y: 50}
+        - {x: -34, y: -4}
+        - {x: -15, y: -13}
+        - {x: 4, y: -13}
+        - {x: 21, y: -7}
+        - {x: 31, y: 15}
+        - {x: 31, y: 42}
+        - {x: 25, y: 57}
+    - name: blood_hit_04_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: -13}
+        - {x: 24, y: -14}
+        - {x: 34, y: 19}
+        - {x: 34, y: 40}
+        - {x: 30, y: 46}
+        - {x: 13, y: 57}
+        - {x: 7, y: 57}
+        - {x: 4, y: 54}
+        - {x: 4, y: 40}
+        - {x: 2, y: 37}
+        - {x: -2, y: 38}
+        - {x: -8, y: 54}
+        - {x: -14, y: 57}
+        - {x: -17, y: 57}
+        - {x: -37, y: 41}
+        - {x: -37, y: 15}
+        - {x: -34, y: -2}
+        - {x: -10, y: -20}
+        - {x: 3, y: -20}
+        - {x: 12, y: -17}
+        - {x: 13, y: -14}
+        - {x: 13, y: -8}
+        - {x: 14, y: -10}
+      - - {x: -7, y: 57}
+        - {x: -9, y: 56}
+        - {x: -9, y: 47}
+        - {x: -5, y: 42}
+        - {x: 1, y: 42}
+        - {x: 4, y: 43}
+        - {x: 4, y: 53}
+        - {x: -1, y: 57}
+    - name: blood_hit_04_5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 57}
+        - {x: -40, y: 40}
+        - {x: -40, y: 11}
+        - {x: -36, y: -17}
+        - {x: -20, y: -27}
+        - {x: 9, y: -27}
+        - {x: 21, y: -22}
+        - {x: 38, y: 4}
+        - {x: 38, y: 40}
+        - {x: 29, y: 57}
+      - - {x: -2, y: 58}
+        - {x: -6, y: 58}
+        - {x: -9, y: 55}
+        - {x: -9, y: 45}
+        - {x: -2, y: 40}
+        - {x: 2, y: 40}
+        - {x: 4, y: 42}
+        - {x: 4, y: 53}
+    - name: blood_hit_04_6
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27, y: 19}
+        - {x: 25, y: 21}
+        - {x: 28, y: 23}
+        - {x: 27, y: 15}
+        - {x: 27, y: 5}
+        - {x: 32, y: 1}
+        - {x: 40, y: 9}
+        - {x: 40, y: 55}
+        - {x: -36, y: 55}
+        - {x: -43, y: 38}
+        - {x: -43, y: 26}
+        - {x: -41, y: 20}
+        - {x: -35, y: 21}
+        - {x: -28, y: 28}
+        - {x: -26, y: 26}
+        - {x: -29, y: 26}
+        - {x: -35, y: 21}
+        - {x: -39, y: 20}
+        - {x: -43, y: 18}
+        - {x: -43, y: 17}
+        - {x: -42, y: 5}
+        - {x: -36, y: -12}
+        - {x: -19, y: -26}
+        - {x: -6, y: -33}
+        - {x: 8, y: -33}
+        - {x: 25, y: -25}
+        - {x: 30, y: 2}
+        - {x: 27, y: 4}
+      - - {x: -9, y: 56}
+        - {x: -10, y: 54}
+        - {x: -10, y: 43}
+        - {x: -5, y: 38}
+        - {x: 5, y: 38}
+        - {x: 5, y: 53}
+        - {x: -2, y: 56}
+    - name: blood_hit_04_7
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: -35}
+        - {x: 3, y: -41}
+        - {x: 9, y: -41}
+        - {x: 29, y: -32}
+        - {x: 31, y: -16}
+        - {x: 30, y: -2}
+        - {x: 26, y: 0}
+        - {x: 25, y: 0}
+        - {x: 29, y: 6}
+        - {x: 29, y: 17}
+        - {x: 29, y: 1}
+        - {x: 32, y: -2}
+        - {x: 35, y: -4}
+        - {x: 43, y: -1}
+        - {x: 43, y: 43}
+        - {x: 39, y: 55}
+        - {x: -23, y: 55}
+        - {x: -45, y: 38}
+        - {x: -45, y: -4}
+        - {x: -41, y: -23}
+        - {x: -10, y: -41}
+        - {x: -2, y: -41}
+        - {x: 2, y: -37}
+        - {x: 2, y: -26}
+        - {x: 0, y: -23}
+        - {x: 2, y: -23}
+      - - {x: -8, y: 56}
+        - {x: -10, y: 55}
+        - {x: -10, y: 39}
+        - {x: -9, y: 36}
+        - {x: -5, y: 35}
+        - {x: 4, y: 35}
+        - {x: 5, y: 38}
+        - {x: 5, y: 50}
+        - {x: -1, y: 56}
+    - name: blood_hit_04_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: -29}
+        - {x: 2, y: -40}
+        - {x: 5, y: -45}
+        - {x: 22, y: -44}
+        - {x: 31, y: -29}
+        - {x: 31, y: 53}
+        - {x: -29, y: 53}
+        - {x: -29, y: 24}
+        - {x: -28, y: 18}
+        - {x: -30, y: 20}
+        - {x: -33, y: 20}
+        - {x: -36, y: 16}
+        - {x: -39, y: 13}
+        - {x: -36, y: 17}
+        - {x: -35, y: 21}
+        - {x: -31, y: 21}
+        - {x: -29, y: 23}
+        - {x: -29, y: 35}
+        - {x: -30, y: 37}
+        - {x: -34, y: 39}
+        - {x: -47, y: 33}
+        - {x: -47, y: -10}
+        - {x: -43, y: -29}
+        - {x: -6, y: -48}
+        - {x: -2, y: -48}
+        - {x: 2, y: -44}
+        - {x: 2, y: -32}
+        - {x: -1, y: -28}
+      - - {x: 34, y: 37}
+        - {x: 31, y: 36}
+        - {x: 31, y: -5}
+        - {x: 34, y: -7}
+        - {x: 39, y: -5}
+        - {x: 45, y: 10}
+        - {x: 45, y: 29}
+        - {x: 41, y: 37}
+      - - {x: -10, y: 40}
+        - {x: -2, y: 31}
+        - {x: 5, y: 31}
+        - {x: 5, y: 53}
+        - {x: 2, y: 54}
+        - {x: -8, y: 54}
+        - {x: -10, y: 53}
+    - name: blood_hit_04_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: -52}
+        - {x: 10, y: -54}
+        - {x: 32, y: -54}
+        - {x: 32, y: 51}
+        - {x: 10, y: 51}
+        - {x: 7, y: 48}
+        - {x: 7, y: 34}
+        - {x: 8, y: 26}
+        - {x: 11, y: 23}
+        - {x: 10, y: 22}
+        - {x: 10, y: 23}
+        - {x: 8, y: 25}
+        - {x: 5, y: 25}
+        - {x: -12, y: 51}
+        - {x: -39, y: 51}
+        - {x: -48, y: 42}
+        - {x: -48, y: -7}
+        - {x: -41, y: -30}
+        - {x: -18, y: -44}
+        - {x: -13, y: -40}
+        - {x: -12, y: -35}
+        - {x: -12, y: -25}
+        - {x: -12, y: -45}
+        - {x: -5, y: -54}
+        - {x: 0, y: -54}
+        - {x: 3, y: -50}
+        - {x: 2, y: -37}
+        - {x: 3, y: -47}
+      - - {x: 37, y: 34}
+        - {x: 32, y: 29}
+        - {x: 32, y: -6}
+        - {x: 33, y: -11}
+        - {x: 42, y: -11}
+        - {x: 43, y: -10}
+        - {x: 47, y: 4}
+        - {x: 47, y: 20}
+        - {x: 40, y: 34}
+      - - {x: -10, y: 52}
+        - {x: -10, y: 38}
+        - {x: -9, y: 33}
+        - {x: -1, y: 29}
+        - {x: 2, y: 29}
+        - {x: 5, y: 31}
+        - {x: 5, y: 50}
+        - {x: -3, y: 52}
+    - name: blood_hit_04_10
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: -54}
+        - {x: 8, y: -56}
+        - {x: 16, y: -56}
+        - {x: 17, y: -53}
+        - {x: 17, y: -39}
+        - {x: 19, y: -34}
+        - {x: 19, y: -21}
+        - {x: 17, y: -18}
+        - {x: 20, y: -19}
+        - {x: 19, y: -24}
+        - {x: 19, y: -37}
+        - {x: 23, y: -55}
+        - {x: 33, y: -41}
+        - {x: 33, y: 40}
+        - {x: 28, y: 48}
+        - {x: -27, y: 48}
+        - {x: -32, y: 44}
+        - {x: -30, y: 16}
+        - {x: -41, y: 5}
+        - {x: -39, y: 10}
+        - {x: -34, y: 14}
+        - {x: -31, y: 17}
+        - {x: -31, y: 28}
+        - {x: -33, y: 34}
+        - {x: -50, y: 25}
+        - {x: -50, y: -30}
+        - {x: -23, y: -59}
+        - {x: 1, y: -59}
+        - {x: 2, y: -56}
+        - {x: 2, y: -44}
+        - {x: -1, y: -38}
+        - {x: 3, y: -37}
+      - - {x: 38, y: 31}
+        - {x: 33, y: 28}
+        - {x: 33, y: -11}
+        - {x: 36, y: -16}
+        - {x: 45, y: -16}
+        - {x: 48, y: -1}
+        - {x: 48, y: 19}
+        - {x: 40, y: 31}
+      - - {x: -10, y: 36}
+        - {x: -3, y: 26}
+        - {x: 5, y: 26}
+        - {x: 5, y: 43}
+        - {x: 4, y: 47}
+        - {x: 0, y: 50}
+        - {x: -7, y: 50}
+        - {x: -10, y: 48}
+    - name: blood_hit_04_11
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: -58}
+        - {x: 4, y: -64}
+        - {x: 17, y: -62}
+        - {x: 20, y: -38}
+        - {x: 20, y: -26}
+        - {x: 18, y: -23}
+        - {x: 23, y: -26}
+        - {x: 20, y: -30}
+        - {x: 20, y: -42}
+        - {x: 21, y: -53}
+        - {x: 27, y: -55}
+        - {x: 28, y: -52}
+        - {x: 34, y: -39}
+        - {x: 34, y: 41}
+        - {x: 33, y: 45}
+        - {x: -41, y: 45}
+        - {x: -32, y: 14}
+        - {x: -42, y: 3}
+        - {x: -42, y: -4}
+        - {x: -42, y: -2}
+        - {x: -44, y: 1}
+        - {x: -41, y: 5}
+        - {x: -41, y: 18}
+        - {x: -43, y: 22}
+        - {x: -51, y: 20}
+        - {x: -51, y: -17}
+        - {x: -41, y: -46}
+        - {x: -8, y: -64}
+        - {x: 2, y: -64}
+        - {x: 3, y: -53}
+        - {x: 2, y: -47}
+        - {x: 3, y: -42}
+      - - {x: 37, y: 27}
+        - {x: 34, y: 24}
+        - {x: 34, y: -13}
+        - {x: 36, y: -21}
+        - {x: 50, y: -21}
+        - {x: 50, y: 27}
+      - - {x: -39, y: 28}
+        - {x: -41, y: 25}
+        - {x: -41, y: 12}
+        - {x: -37, y: 10}
+        - {x: -33, y: 10}
+        - {x: -32, y: 11}
+        - {x: -32, y: 25}
+        - {x: -33, y: 28}
+      - - {x: -9, y: 47}
+        - {x: -10, y: 45}
+        - {x: -10, y: 27}
+        - {x: -5, y: 23}
+        - {x: 2, y: 23}
+        - {x: 5, y: 25}
+        - {x: 5, y: 38}
+        - {x: 4, y: 43}
+        - {x: -5, y: 47}
+    - name: blood_hit_04_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -44}
+        - {x: 4, y: -64}
+        - {x: 18, y: -64}
+        - {x: 20, y: -51}
+        - {x: 20, y: -31}
+        - {x: 18, y: -28}
+        - {x: 24, y: -31}
+        - {x: 20, y: -36}
+        - {x: 20, y: -45}
+        - {x: 21, y: -49}
+        - {x: 22, y: -58}
+        - {x: 27, y: -62}
+        - {x: 35, y: -47}
+        - {x: 35, y: 31}
+        - {x: 22, y: 41}
+        - {x: 10, y: 41}
+        - {x: 9, y: 40}
+        - {x: 9, y: 24}
+        - {x: -14, y: 39}
+        - {x: -18, y: 41}
+        - {x: -24, y: 41}
+        - {x: -51, y: 13}
+        - {x: -51, y: -41}
+        - {x: -49, y: -48}
+        - {x: -16, y: -61}
+        - {x: -14, y: -55}
+        - {x: -14, y: -39}
+        - {x: -12, y: -62}
+        - {x: -9, y: -64}
+        - {x: 1, y: -64}
+        - {x: 1, y: -54}
+        - {x: -2, y: -50}
+        - {x: -4, y: -41}
+      - - {x: 35, y: -21}
+        - {x: 36, y: -25}
+        - {x: 46, y: -25}
+        - {x: 51, y: -20}
+        - {x: 51, y: 11}
+        - {x: 47, y: 22}
+        - {x: 46, y: 23}
+        - {x: 36, y: 23}
+        - {x: 35, y: 20}
+      - - {x: -52, y: 14}
+        - {x: -52, y: 1}
+        - {x: -51, y: -2}
+        - {x: -47, y: -2}
+        - {x: -42, y: 0}
+        - {x: -42, y: 13}
+        - {x: -45, y: 17}
+        - {x: -49, y: 17}
+      - - {x: -39, y: 24}
+        - {x: -42, y: 21}
+        - {x: -42, y: 11}
+        - {x: -39, y: 6}
+        - {x: -34, y: 8}
+        - {x: -33, y: 12}
+        - {x: -33, y: 19}
+        - {x: -35, y: 23}
+      - - {x: -5, y: 43}
+        - {x: -10, y: 43}
+        - {x: -10, y: 28}
+        - {x: -9, y: 23}
+        - {x: -5, y: 19}
+        - {x: 3, y: 19}
+        - {x: 6, y: 21}
+        - {x: 6, y: 36}
+        - {x: 1, y: 42}
+    - name: blood_hit_04_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: -44}
+        - {x: -12, y: -46}
+        - {x: -13, y: -52}
+        - {x: -12, y: -64}
+        - {x: 0, y: -64}
+        - {x: 0, y: -56}
+        - {x: -5, y: -44}
+      - - {x: 25, y: 39}
+        - {x: -34, y: 39}
+        - {x: -52, y: -4}
+        - {x: -52, y: -24}
+        - {x: -49, y: -48}
+        - {x: -29, y: -64}
+        - {x: -17, y: -64}
+        - {x: -11, y: -58}
+        - {x: -8, y: -41}
+        - {x: -8, y: -29}
+        - {x: -8, y: -31}
+        - {x: -7, y: -37}
+        - {x: -2, y: -48}
+        - {x: 4, y: -64}
+        - {x: 18, y: -64}
+        - {x: 36, y: -29}
+        - {x: 36, y: 20}
+        - {x: 34, y: 36}
+      - - {x: 28, y: -30}
+        - {x: 24, y: -31}
+        - {x: 21, y: -41}
+        - {x: 21, y: -59}
+        - {x: 23, y: -64}
+        - {x: 33, y: -64}
+        - {x: 36, y: -47}
+        - {x: 36, y: -31}
+        - {x: 35, y: -30}
+      - - {x: 36, y: 19}
+        - {x: 36, y: -16}
+        - {x: 39, y: -29}
+        - {x: 46, y: -29}
+        - {x: 52, y: -13}
+        - {x: 52, y: 15}
+        - {x: 51, y: 19}
+      - - {x: -49, y: 13}
+        - {x: -53, y: 9}
+        - {x: -53, y: -3}
+        - {x: -51, y: -5}
+        - {x: -47, y: -5}
+        - {x: -43, y: -2}
+        - {x: -43, y: 8}
+        - {x: -47, y: 13}
+      - - {x: -42, y: 18}
+        - {x: -43, y: 14}
+        - {x: -43, y: 7}
+        - {x: -41, y: 3}
+        - {x: -38, y: 3}
+        - {x: -36, y: 4}
+        - {x: -34, y: 6}
+        - {x: -34, y: 16}
+        - {x: -37, y: 20}
+      - - {x: -9, y: 39}
+        - {x: -10, y: 37}
+        - {x: -10, y: 24}
+        - {x: -2, y: 16}
+        - {x: 2, y: 16}
+        - {x: 5, y: 18}
+        - {x: 6, y: 21}
+        - {x: 6, y: 33}
+        - {x: -1, y: 39}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

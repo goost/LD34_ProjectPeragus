@@ -1,0 +1,373 @@
+fileFormatVersion: 2
+guid: fdb27971ba5f01b4598f292017bfe128
+timeCreated: 1450032498
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: blood_hit_07_0
+    21300002: blood_hit_07_1
+    21300004: blood_hit_07_2
+    21300006: blood_hit_07_3
+    21300008: blood_hit_07_4
+    21300010: blood_hit_07_5
+    21300012: blood_hit_07_6
+    21300014: blood_hit_07_7
+    21300016: blood_hit_07_8
+    21300018: blood_hit_07_9
+    21300020: blood_hit_07_10
+    21300022: blood_hit_07_11
+    21300024: blood_hit_07_12
+    21300026: blood_hit_07_13
+    21300028: blood_hit_07_14
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 128
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: blood_hit_07_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 50}
+        - {x: -13, y: 44}
+        - {x: -13, y: 17}
+        - {x: -9, y: 16}
+        - {x: 9, y: 16}
+        - {x: 10, y: 20}
+        - {x: 10, y: 47}
+        - {x: 3, y: 50}
+    - name: blood_hit_07_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 50}
+        - {x: -15, y: 46}
+        - {x: -16, y: 40}
+        - {x: -16, y: 14}
+        - {x: -15, y: 13}
+        - {x: 10, y: 13}
+        - {x: 13, y: 15}
+        - {x: 13, y: 47}
+        - {x: 3, y: 50}
+    - name: blood_hit_07_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 48}
+        - {x: -18, y: 40}
+        - {x: -18, y: 13}
+        - {x: -15, y: 10}
+        - {x: 10, y: 10}
+        - {x: 15, y: 14}
+        - {x: 15, y: 45}
+        - {x: 6, y: 48}
+    - name: blood_hit_07_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 46}
+        - {x: -13, y: 46}
+        - {x: -20, y: 35}
+        - {x: -20, y: 14}
+        - {x: -12, y: 7}
+        - {x: -10, y: 6}
+        - {x: 17, y: 6}
+        - {x: 17, y: 40}
+        - {x: 3, y: 45}
+    - name: blood_hit_07_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 43}
+        - {x: 2, y: 45}
+        - {x: -13, y: 45}
+        - {x: -20, y: 38}
+        - {x: -22, y: 26}
+        - {x: -22, y: 9}
+        - {x: -7, y: 1}
+        - {x: 11, y: 1}
+        - {x: 17, y: 4}
+        - {x: 18, y: 13}
+        - {x: 18, y: 35}
+    - name: blood_hit_07_5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 43}
+        - {x: -17, y: 43}
+        - {x: -21, y: 38}
+        - {x: -23, y: 23}
+        - {x: -23, y: 4}
+        - {x: -11, y: -4}
+        - {x: 10, y: -4}
+        - {x: 17, y: -1}
+        - {x: 19, y: 11}
+        - {x: 19, y: 20}
+        - {x: 18, y: 31}
+    - name: blood_hit_07_6
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 41}
+        - {x: -24, y: 37}
+        - {x: -24, y: -5}
+        - {x: -19, y: -9}
+        - {x: 13, y: -9}
+        - {x: 21, y: -2}
+        - {x: 21, y: 29}
+        - {x: 10, y: 41}
+    - name: blood_hit_07_7
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 40}
+        - {x: -21, y: 37}
+        - {x: -25, y: 29}
+        - {x: -25, y: -6}
+        - {x: -19, y: -15}
+        - {x: 19, y: -15}
+        - {x: 22, y: -9}
+        - {x: 22, y: 23}
+        - {x: 16, y: 40}
+    - name: blood_hit_07_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 37}
+        - {x: -25, y: 35}
+        - {x: -26, y: 19}
+        - {x: -26, y: -9}
+        - {x: -17, y: -20}
+        - {x: 20, y: -20}
+        - {x: 22, y: -15}
+        - {x: 22, y: 34}
+        - {x: 17, y: 37}
+    - name: blood_hit_07_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 35}
+        - {x: -27, y: 23}
+        - {x: -27, y: -20}
+        - {x: -14, y: -25}
+        - {x: 21, y: -25}
+        - {x: 23, y: -17}
+        - {x: 23, y: 28}
+        - {x: 7, y: 35}
+    - name: blood_hit_07_10
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 31}
+        - {x: -27, y: -29}
+        - {x: -26, y: -30}
+        - {x: 20, y: -30}
+        - {x: 24, y: -24}
+        - {x: 24, y: 29}
+        - {x: 23, y: 31}
+    - name: blood_hit_07_11
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 28}
+        - {x: -17, y: 28}
+        - {x: -28, y: 14}
+        - {x: -28, y: -22}
+        - {x: -23, y: -35}
+        - {x: 24, y: -35}
+        - {x: 24, y: 12}
+        - {x: 15, y: 27}
+    - name: blood_hit_07_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 23}
+        - {x: -4, y: 19}
+        - {x: -6, y: 15}
+        - {x: -6, y: 13}
+        - {x: -7, y: 21}
+        - {x: -7, y: 23}
+        - {x: -27, y: 23}
+        - {x: -29, y: 21}
+        - {x: -29, y: -32}
+        - {x: -26, y: -40}
+        - {x: 25, y: -40}
+        - {x: 25, y: 6}
+        - {x: 17, y: 23}
+    - name: blood_hit_07_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 20}
+        - {x: -18, y: 20}
+        - {x: -29, y: 13}
+        - {x: -29, y: -32}
+        - {x: -17, y: -44}
+        - {x: 20, y: -44}
+        - {x: 25, y: -40}
+        - {x: 25, y: 5}
+        - {x: 15, y: 17}
+    - name: blood_hit_07_14
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 14}
+        - {x: -27, y: 11}
+        - {x: -29, y: -6}
+        - {x: -29, y: -40}
+        - {x: -22, y: -49}
+        - {x: 19, y: -49}
+        - {x: 26, y: -38}
+        - {x: 26, y: -6}
+        - {x: 21, y: 14}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

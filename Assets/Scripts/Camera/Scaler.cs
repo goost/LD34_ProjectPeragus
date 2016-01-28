@@ -1,9 +1,17 @@
-﻿using UnityEngine;
+using UnityEngine;
 
 public class Scaler : MonoBehaviour
 {
+#pragma warning disable 0649
+
     [SerializeField]
+    private float _delimterOne;
+
+    [SerializeField]
+    private float _delimterTwo;
+
     private Camera _cam;
+#pragma warning restore 0649
 
     // Use this for initialization
     private void Start()
@@ -15,6 +23,6 @@ public class Scaler : MonoBehaviour
     private void Update()
     {
         //TODO (goost) To start, in update just for testing
-        _cam.orthographicSize = Screen.height / 125f / 6f;
+        _cam.orthographicSize = Screen.height / _delimterOne / _delimterTwo;
     }
 }

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="20" height="12" tilewidth="32" tileheight="32" nextobjectid="1">
+ <tileset firstgid="1" name="living_bakground" tilewidth="32" tileheight="32" tilecount="16">
+  <image source="../../../../../../Downloads/1_TEMP/LudumDare/34/living-tissue-platform-files/PNG/layers/bakground.png" width="144" height="144"/>
+  <terraintypes>
+   <terrain name="BG" tile="-1"/>
+  </terraintypes>
+  <tile id="0" terrain="0,0,0,0"/>
+  <tile id="1" terrain="0,0,0,0"/>
+  <tile id="2" terrain="0,0,0,0"/>
+  <tile id="3" terrain="0,0,0,0"/>
+  <tile id="4" terrain="0,0,0,0"/>
+  <tile id="5" terrain="0,0,0,"/>
+  <tile id="6" terrain="0,0,,0"/>
+  <tile id="7" terrain="0,0,0,0"/>
+  <tile id="8" terrain="0,0,0,0"/>
+  <tile id="9" terrain="0,,0,0"/>
+  <tile id="10" terrain=",0,0,0"/>
+  <tile id="11" terrain="0,0,0,0"/>
+  <tile id="12" terrain="0,0,0,0"/>
+  <tile id="13" terrain="0,0,0,0"/>
+  <tile id="14" terrain="0,0,0,0"/>
+  <tile id="15" terrain="0,0,0,0"/>
+ </tileset>
+ <tileset firstgid="17" name="living_tileset" tilewidth="32" tileheight="32" tilecount="54">
+  <image source="../../../../../../Downloads/1_TEMP/LudumDare/34/living-tissue-platform-files/PNG/layers/tileset.png" width="288" height="192"/>
+  <terraintypes>
+   <terrain name="GroundInterior" tile="-1"/>
+  </terraintypes>
+  <tile id="28">
+   <objectgroup draworder="index">
+    <object id="0" x="0" y="16" width="32" height="16"/>
+   </objectgroup>
+  </tile>
+  <tile id="29">
+   <objectgroup draworder="index">
+    <object id="0" x="0" y="32">
+     <polyline points="0,0 32,0 32,-17.3125 0,-17.5625 0,0"/>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="30">
+   <objectgroup draworder="index">
+    <object id="0" x="0" y="32">
+     <polyline points="0,0 32,0 32,-16.25 0,-16.125 0,0"/>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="31">
+   <objectgroup draworder="index">
+    <object id="0" x="0" y="16.0625">
+     <polyline points="0,0 31.9375,-0.1875 32,15.9375 0,15.9375 0.0625,0"/>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="32">
+   <objectgroup draworder="index">
+    <object id="0" x="0" y="16" width="32" height="16"/>
+   </objectgroup>
+  </tile>
+  <tile id="33">
+   <objectgroup draworder="index">
+    <object id="0" x="0" y="16" width="32" height="16"/>
+   </objectgroup>
+  </tile>
+  <tile id="47" terrain="0,0,,"/>
+  <tile id="48" terrain="0,0,,"/>
+  <tile id="49" terrain="0,0,,"/>
+  <tile id="50" terrain="0,0,,"/>
+ </tileset>
+ <tileset firstgid="71" name="solid_red" tilewidth="32" tileheight="32" tilecount="1">
+  <image source="../../../../../../Downloads/1_TEMP/LudumDare/34/solid_red.png" width="32" height="32"/>
+  <tile id="0">
+   <objectgroup draworder="index">
+    <object id="0" x="0.0625" y="0.0625" width="31.875" height="31.9375"/>
+    <object id="0" x="0.0625" y="-0.0625" width="31.9375" height="32"/>
+   </objectgroup>
+  </tile>
+ </tileset>
+ <layer name="BG" width="20" height="12">
+  <data encoding="base64" compression="zlib">
+   eJzl0KcBACAQwMCn97L/tGQAHO8QJ2JjRMTCwcM8dkBEQlbogoqGrtADEwtboV9//fTPK//Ln/279QF94wfx
+  </data>
+ </layer>
+ <layer name="Ground" width="20" height="12">
+  <properties>
+   <property name="unity:sortingLayerName" value="Ground"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo4A8oA7EGhTIg4AuEOsBsT4QGwCxIRIfhgnJw7AREJsBsTkF2AKILYHYCoitgVgBiBWphEHmaQKxFpWwNhADACxGDpg=
+  </data>
+ </layer>
+ <layer name="Collision" width="20" height="12" opacity="0.2">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUDFUAAAPAAAE=
+  </data>
+ </layer>
+</map>
